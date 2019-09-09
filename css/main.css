@@ -1505,7 +1505,7 @@ input::-moz-focus-inner {
 
 .section-desc {
   font-family: "Frank Ruhl Libre", serif;
-  font-size: 5.4rem;
+  font-size: 2.4rem;
   font-weight: 400;
   line-height: 1.259;
   letter-spacing: -0.05rem;
@@ -1968,7 +1968,7 @@ input::-moz-focus-inner {
 }
 
 .intro-text h1 {
-  font-size: 7.8rem;
+  font-size: 4.8rem;
   font-weight: 500;
   line-height: 1.179;
   color: #ffffff;
@@ -2149,7 +2149,7 @@ input::-moz-focus-inner {
  *
  * ------------------------------------------------------------------- */
 .s-about {
-  padding-top: 2.2rem;
+  padding-top: 5.2rem;
   background-color: #ffffff;
 }
 
@@ -2478,8 +2478,8 @@ input::-moz-focus-inner {
  *
  * ------------------------------------------------------------------- */
 .s-services {
-  padding-top: 2.2rem;
-  padding-bottom: 2rem;
+  padding-top: 5.2rem;
+  padding-bottom: 5rem;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2692,8 +2692,8 @@ input::-moz-focus-inner {
  *
  * ------------------------------------------------------------------- */
 .s-works {
-  padding-top: 19.2rem;
-  padding-bottom: 16rem;
+  padding-top: 5.2rem;
+  padding-bottom: 5rem;
   background-color: #ffffff;
 }
 
@@ -3216,8 +3216,7 @@ input::-moz-focus-inner {
  *
  * ------------------------------------------------------------------- */
 .s-contact {
-  padding-top: 18.4rem;
-  padding-bottom: 6.4rem;
+  padding: 5.4rem 0 0 0;
   background-color: #050505;
 }
 
@@ -3242,7 +3241,7 @@ input::-moz-focus-inner {
 }
 
 .contact-infos {
-  margin-top: 12.8rem;
+  margin-top: 4.8rem;
   font-family: "Frank Ruhl Libre", serif;
   font-weight: 400;
   font-size: 4.2rem;
@@ -3274,6 +3273,7 @@ input::-moz-focus-inner {
 }
 
 .contact-social ul {
+  font-size: 18px;
   list-style: none;
   margin-left: 0;
   display: -ms-flexbox;
