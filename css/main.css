@@ -1950,12 +1950,24 @@ input::-moz-focus-inner {
   bottom: 0;
   left: 30%;
 }
+.author-image {
+  background: url(../images/profile.jpeg) no-repeat;
+  background-size: 80px 130px;
+  position: absolute;
+  top: 220px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 100%;
+  width: 80px;
+}
 
 .intro-text {
   -webkit-transform: translate3d(0, -3.6rem, 0);
   transform: translate3d(0, -3.6rem, 0);
-  position: static;
   z-index: 1;
+  position: relative;
+  padding: 60px 0;
 }
 
 .intro-text h3 {
