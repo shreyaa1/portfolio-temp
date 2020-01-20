@@ -1628,6 +1628,7 @@ input::-moz-focus-inner {
   outline: 0;
   border: none;
   transition: all 0.3s;
+  font-weight: bold;
 }
 
 .header-logo img {
@@ -1954,12 +1955,13 @@ input::-moz-focus-inner {
   background: url(../images/profile.jpeg) no-repeat;
   background-size: 80px 130px;
   position: absolute;
-  top: 220px;
+  top: 245px;
   right: 0;
   bottom: 0;
   left: 0;
   border-radius: 100%;
-  width: 80px;
+  width: 65px;
+  height: 65px;
 }
 
 .intro-text {
@@ -2087,6 +2089,7 @@ input::-moz-focus-inner {
 
   .intro-text h3 {
     font-size: 1.8rem;
+    color: #d3d3d3;
   }
 
   .intro-text h1 {
@@ -2118,7 +2121,7 @@ input::-moz-focus-inner {
   }
 
   .intro-pic {
-    left: 20%;
+    left: 0;
   }
 
   .intro-grid {
